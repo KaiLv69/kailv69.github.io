@@ -24,7 +24,7 @@ My research interests lie in the field of Machine Learning and Natural Language 
 # Experience
 - **Shanghai AI Laboratory**  
   Advisor: Dr. [Hang Yan](https://scholar.google.com/citations?user=yigHzW8AAAAJ&hl=zh-CN&oi=ao)  
-  July 2021 - Present
+  July 2023 - Present
 
 # Publications
 \* denotes co-first authors
