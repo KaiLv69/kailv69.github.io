@@ -35,7 +35,7 @@ My primary research centers on the domains of Machine Learning and Natural Langu
 arXiv 2023. [[paper]](https://arxiv.org/abs/2310.10195) [[code]](https://github.com/OpenLMLab/LOMO)
 
 **CoLLiE: Collaborative Training of Large Language Models in an Efficient Way**  
-**Kai Lv\***, Shuo Zhang\*, Tianle Gu, Shuhao Xing, Jiawei Hong, Keyu Chen, Xiaoran Liu, Yuqing Yang, Honglin Guo, Tengxiao Liu, Yu Sun, Qipeng Guo, Hang Yan, Xipeng Qiu  
+**Kai Lv**\*, Shuo Zhang\*, Tianle Gu, Shuhao Xing, Jiawei Hong, Keyu Chen, Xiaoran Liu, Yuqing Yang, Honglin Guo, Tengxiao Liu, Yu Sun, Qipeng Guo, Hang Yan, Xipeng Qiu  
 EMNLP Demo 2023. [[code]](https://github.com/OpenLMLab/collie)
 
 **Full Parameter Fine-tuning for Large Language Models with Limited Resources**  
@@ -43,7 +43,7 @@ EMNLP Demo 2023. [[code]](https://github.com/OpenLMLab/collie)
 arXiv 2023. [[paper]](https://arxiv.org/abs/2306.09782) [[code]](https://github.com/OpenLMLab/LOMO)
 
 **Unified Demonstration Retriever for In-Context Learning**  
-Xiaonan Li\*, **Kai Lv\***, Hang Yan, Tianyang Lin, Wei Zhu, Yuan Ni, Guotong Xie, Xiaoling Wang, Xipeng Qiu  
+Xiaonan Li\*, **Kai Lv**\*, Hang Yan, Tianyang Lin, Wei Zhu, Yuan Ni, Guotong Xie, Xiaoling Wang, Xipeng Qiu  
 ACL 2023 (oral). [[paper]](https://aclanthology.org/2023.acl-long.256/) [[code]](https://github.com/KaiLv69/UDR)
 
 **Cont: Contrastive neural text generation**  
