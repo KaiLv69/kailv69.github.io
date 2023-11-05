@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yuqing Yang"
+title                    : "Kai Lv"
 title_separator          : "-"
-name                     : &name "Yuqing Yang"
+name                     : &name "Kai Lv"
 description              : &description "personal description"
-url                      : "https://ayyyq.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://kailv69.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ayyyq/ayyyq.github.io"
+repository               : "KaiLv69/kailv69.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yuqing Yang"
-  name2            : "杨雨晴"
+  name             : "Kai Lv"
+  name2            : "吕凯"
   avatar           : "profile.jpg"
-  bio              : "NLP MSc student at FDU"
+  bio              : "Ph.D. Candidate in NLP at Fudan University"
   location         : "China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=pIzLAUIAAAAJ"
-  email            : yuqingyang21@m.fudan.edu.cn
+  googlescholar    : "https://scholar.google.com/citations?user=7XdtqKMAAAAJ&hl=zh-CN"
+  email            : klv21@m.fudan.edu.cn
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -97,7 +97,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ayyyq"
+  github           : "KaiLv69"
   google_plus      :
   keybase          :
   instagram        :
