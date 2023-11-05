@@ -1,4 +1,4 @@
-Thanks for the Github Pages template for academic websites from [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io) and [jxhe/jxhe.github.io](https://github.com/jxhe/jxhe.github.io).
+Thanks for the Github Pages template for academic websites from [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io) and [ayyyq/ayyyq.github.io](https://github.com/ayyyq/ayyyq.github.io).
 
 [//]: # (A Github Pages template for academic websites. This was forked &#40;then detached&#41; by [Stuart Geiger]&#40;https://github.com/staeiou&#41; from the [Minimal Mistakes Jekyll Theme]&#40;https://mmistakes.github.io/minimal-mistakes/&#41;, which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.)
 

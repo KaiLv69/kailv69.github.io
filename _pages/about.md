@@ -12,7 +12,7 @@ redirect_from:
 I am a third-year Ph.D. candidate at Fudan University, advised by Prof. [Xipeng Qiu](https://xpqiu.github.io/). 
 Currently, I am also interning at [Shanghai AI Laboratory](https://www.shlab.org.cn/).
 
-My primary research centers on the domains of Machine Learning and Natural Language Processing, with a particular focus on large language models and methods to enhance their efficiency and efficacy. 
+My research interests lie in the field of Machine Learning and Natural Language Processing, with a particular focus on large language models and methods to enhance their efficiency and efficacy. 
 
 # Education
 - **Fudan University**  
@@ -46,7 +46,7 @@ arXiv 2023. [[paper]](https://arxiv.org/abs/2306.09782) [[code]](https://github.
 Xiaonan Li\*, **Kai Lv**\*, Hang Yan, Tianyang Lin, Wei Zhu, Yuan Ni, Guotong Xie, Xiaoling Wang, Xipeng Qiu  
 ACL 2023 (oral). [[paper]](https://aclanthology.org/2023.acl-long.256/) [[code]](https://github.com/KaiLv69/UDR)
 
-**Cont: Contrastive neural text generation**  
+**CoNT: Contrastive Neural Text Generation**  
 Chenxin An, Jiangtao Feng, **Kai Lv**, Lingpeng Kong, Xipeng Qiu, Xuanjing Huang  
 NeurIPS 2022. [[paper]](https://proceedings.neurips.cc/paper_files/paper/2022/hash/0f5fcf4bff73a3537e0813a38f0d3f76-Abstract-Conference.html) [[code]](https://github.com/Shark-NLP/CoNT)
 
