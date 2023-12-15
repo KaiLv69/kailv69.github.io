@@ -36,7 +36,7 @@ arXiv 2023. [[paper]](https://arxiv.org/abs/2310.10195) [[code]](https://github.
 
 **CoLLiE: Collaborative Training of Large Language Models in an Efficient Way**  
 **Kai Lv**\*, Shuo Zhang\*, Tianle Gu, Shuhao Xing, Jiawei Hong, Keyu Chen, Xiaoran Liu, Yuqing Yang, Honglin Guo, Tengxiao Liu, Yu Sun, Qipeng Guo, Hang Yan, Xipeng Qiu  
-EMNLP Demo 2023. [[code]](https://github.com/OpenLMLab/collie)
+EMNLP 2023 Demo. [[paper]](https://arxiv.org/abs/2312.00407) [[code]](https://github.com/OpenLMLab/collie)
 
 **Full Parameter Fine-tuning for Large Language Models with Limited Resources**  
 **Kai Lv**, Yuqing Yang, Tengxiao Liu, Qinghui Gao, Qipeng Guo, Xipeng Qiu  
