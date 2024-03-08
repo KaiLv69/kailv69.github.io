@@ -30,8 +30,8 @@ My research interests lie in the field of Machine Learning and Natural Language 
 \* denotes co-first authors
 <!-- $^\dagger$ denotes corresponding author/main advisor -->
 
-**LongWanjuan: Towards Systematic Measurement for Long Text Quality**
-**Kai Lv**\*, Xiaoran Liu\*, Qipeng Guo, Hang Yan, Conghui He, Xipeng Qiu, Dahua Lin
+**LongWanjuan: Towards Systematic Measurement for Long Text Quality**  
+**Kai Lv**\*, Xiaoran Liu\*, Qipeng Guo, Hang Yan, Conghui He, Xipeng Qiu, Dahua Lin  
 arXiv 2024. [[paper]](https://arxiv.org/abs/2402.13583) [[code]](https://github.com/OpenLMLab/LongWanjuan)
 
 **AdaLomo: Low-memory Optimization with Adaptive Learning Rate**  
