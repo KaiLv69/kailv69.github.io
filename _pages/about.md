@@ -16,7 +16,7 @@ My research interests lie in the field of Machine Learning and Natural Language 
 
 # News
 - [May 2024] [LOMO](https://arxiv.org/abs/2306.09782) and [AdaLomo](https://arxiv.org/abs/2310.10195) were integrated in [`transformers`](https://huggingface.co/docs/transformers/main/en/trainer#lomo-optimizer) and [`accelerate`](https://huggingface.co/docs/accelerate/main/en/package_reference/accelerator#accelerate.Accelerator.lomo_backward)!
-- [Jan. 2024] [InternLM2](https://github.com/InternLM/InternLM) with perfect performance on 200K ``Needle-in-a-Haystack" was released! 
+- [Jan. 2024] [InternLM2](https://github.com/InternLM/InternLM) with perfect performance on 200K \`\`Needle-in-a-Haystack" was released! 
 
 # Education
 - **Fudan University**  
