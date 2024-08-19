@@ -53,11 +53,11 @@ EMNLP 2023 Demo. [[paper]](https://arxiv.org/abs/2312.00407) [[code]](https://gi
 
 **Full Parameter Fine-tuning for Large Language Models with Limited Resources**  
 **Kai Lv**, Yuqing Yang, Tengxiao Liu, Qinghui Gao, Qipeng Guo, Xipeng Qiu  
-ACL 2024 (<span style="color:red">Oral</span>). [[paper]](https://arxiv.org/abs/2306.09782) [[code]](https://github.com/OpenLMLab/LOMO)
+ACL 2024 (<span style="color:red">oral</span>). [[paper]](https://arxiv.org/abs/2306.09782) [[code]](https://github.com/OpenLMLab/LOMO)
 
 **Unified Demonstration Retriever for In-Context Learning**  
 Xiaonan Li\*, **Kai Lv**\*, Hang Yan, Tianyang Lin, Wei Zhu, Yuan Ni, Guotong Xie, Xiaoling Wang, Xipeng Qiu  
-ACL 2023 (<span style="color:red">Oral</span>). [[paper]](https://aclanthology.org/2023.acl-long.256/) [[code]](https://github.com/KaiLv69/UDR)
+ACL 2023 (<span style="color:red">oral</span>). [[paper]](https://aclanthology.org/2023.acl-long.256/) [[code]](https://github.com/KaiLv69/UDR)
 
 **CoNT: Contrastive Neural Text Generation**  
 Chenxin An, Jiangtao Feng, **Kai Lv**, Lingpeng Kong, Xipeng Qiu, Xuanjing Huang  
